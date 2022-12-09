@@ -223,7 +223,6 @@
 
   .center {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     width: 30%;
   }
