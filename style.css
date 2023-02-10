@@ -140,14 +140,10 @@
   }
   
   a {
-    text-decoration: none;
-  }
-  a.showcase {
-    color:#34ff34;
+    color:red;
     font-family:"Courier New", Courier, monospace !important;
     text-align:center;
     vertical-align:top;
-    text-decoration:none;
   }
   
   .blink {
